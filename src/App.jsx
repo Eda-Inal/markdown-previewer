@@ -27,8 +27,8 @@ function App() {
             onChange={(e) => dispatch(onchangeText(e.target.value))}
           />
         </div>
-        <div className="preview-container bg-white">
-          <div className="preview bg-white">
+        <div className="preview-container md:max-lg:flex  ">
+          <div className="preview">
             {situation ? (
               <Markdown>{help}</Markdown>
             ) : (
