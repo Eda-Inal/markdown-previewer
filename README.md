@@ -1,1 +1,12 @@
-https://65fc2db6e7823110042f3f8e--kaleidoscopic-mermaid-094ac1.netlify.app/
+
+*[Live](https://65fe7e71ab32b2c2dd8e1817--markdownpreviewerredux.netlify.app/)*
+
+# Redux Markdown Previewer 
+
+## TOOLS
+### React.js
+### Redux toolkit
+### Redux store
+### React markdown 
+
+### This project 
